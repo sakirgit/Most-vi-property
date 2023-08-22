@@ -1,0 +1,1699 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 06:47:12
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: WINNT                                 |WINNT
+PHP VERSION_________: 8.1.2                                 |8.1.2
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.1.2 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.2
+DOC ROOT____________: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+REQUEST URL_________: "http://highlandsproperties3.wplocal"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+URL_NEW_____________: "http://highlandsproperties3.wplocal"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/20230806_highlandsproperties_[HASH]_20230806161117_archive.zip"
+ARCHIVE SIZE________: 425.03MB
+CREATED_____________: 2023-08-06 16:11:17
+WP VERSION__________: 6.2.2
+DUP VERSION_________: 1.5.5.1
+LICENSE_____________: Free version
+DB VERSION__________: 10.4.22
+DB FILE SIZE________: 17.83MB
+DB TABLES___________: 53
+DB ROWS_____________: 16077
+URL HOME____________: http://highlandsproperties.wplocal
+URL CORE____________: http://highlandsproperties.wplocal
+URL CONTENT_________: http://highlandsproperties.wplocal/wp-content
+URL UPLOAD__________: http://highlandsproperties.wplocal/wp-content/uploads
+URL PLUGINS_________: http://highlandsproperties.wplocal/wp-content/plugins
+URL MU PLUGINS______: http://highlandsproperties.wplocal/wp-content/mu-plugins
+URL THEMES__________: http://highlandsproperties.wplocal/wp-content/themes
+PATH HOME___________: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal
+PATH ABS____________: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal
+PATH WPCONFIG_______: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal
+PATH WPCONTENT______: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal/wp-content
+PATH UPLOADS________: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal/wp-content/uploads
+PATH PLUGINS________: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal/wp-content/plugins
+PATH MUPLUGINS______: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal/wp-content/mu-plugins
+PATH THEMES_________: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "highlandsproperties.wplocal/"
+
+PLUGINS
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:false]  Akismet Anti-Spam: Spam Protection
+PLUGIN [SLUG:all-in-one-wp-migration/all-in-one-wp-migration.php][ON:false]  All-in-One WP Migration
+PLUGIN [SLUG:duplicate-page/duplicatepage.php                  ][ON:true ]  Duplicate Page
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:extendify/extendify.php                           ][ON:true ]  Extendify
+PLUGIN [SLUG:favethemes-insights/favethemes-insights.php       ][ON:true ]  Favethemes Insights
+PLUGIN [SLUG:hello.php                                         ][ON:false]  Hello Dolly
+PLUGIN [SLUG:houzez-crm/houzez-crm.php                         ][ON:true ]  Houzez CRM
+PLUGIN [SLUG:houzez-login-register/houzez-login-register.php   ][ON:true ]  Houzez Login Register
+PLUGIN [SLUG:houzez-theme-functionality/houzez-theme-functionality.php][ON:true ]  Houzez Theme - Functionality
+PLUGIN [SLUG:houzez-woo-addon/houzez-woo-addon.php             ][ON:false]  Houzez WooCommerce Addon
+PLUGIN [SLUG:leadin/leadin.php                                 ][ON:true ]  HubSpot All-In-One Marketing - Forms, Popups, Live Chat
+PLUGIN [SLUG:mailchimp-for-wp/mailchimp-for-wp.php             ][ON:true ]  MC4WP: Mailchimp for WordPress
+PLUGIN [SLUG:one-click-demo-import/one-click-demo-import.php   ][ON:true ]  One Click Demo Import
+PLUGIN [SLUG:realtyna-mls-sync/realtyna-mls-sync.php           ][ON:true ]  Realtyna MLS Sync
+PLUGIN [SLUG:redux-framework/redux-framework.php               ][ON:true ]  Redux Framework
+PLUGIN [SLUG:revslider/revslider.php                           ][ON:true ]  Slider Revolution
+PLUGIN [SLUG:wp-all-import/plugin.php                          ][ON:true ]  WP All Import
+PLUGIN [SLUG:houzez-xml-csv-property-listings-import/houzez-add-on.php][ON:true ]  WP All Import - Houzez Add-On
+PLUGIN [SLUG:js_composer/js_composer.php                       ][ON:false]  WPBakery Page Builder
+PLUGIN [SLUG:wpforms-lite/wpforms.php                          ][ON:true ]  WPForms Lite
+
+********************************************************************************
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\ctrls\ctrl.base.php:227][DELTA:  10.12080]  MESSAGE:END RENDER PAGE
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\ctrls\ctrl.base.php:227][DELTA:   4.84200]  MESSAGE:END RENDER PAGE
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00020]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00705]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Package Size" [CLASS: DUPX_Validation_test_package_size]
+LOG-TIME[DELTA:   0.00029]  MESSAGE:TEST "Package Size" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00043]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00030]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+LOG-TIME[DELTA:   0.32759]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00182]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00041]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00772]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.05666]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.38012]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00289]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00358]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00302]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00041]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00800]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00024]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00117]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\classes\database\class.db.php:645] MSG: Index for table 'global_priv' is corrupt; try to repair it
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'root' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\classes\validation\class.validation.database.service.php[742]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\classes\validation\database-tests\class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\classes\validation\class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\classes\validation\class.validation.manager.php[232]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\classes\validation\class.validation.manager.php[205]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\ctrls\classes\class.ctrl.ajax.php[173]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\ctrls\classes\class.ctrl.ajax.php[95]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\main.installer.php[56]
+
+LOG-TIME[DELTA:   0.03004]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.50647]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.03236]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.04271]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00018]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.02916]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.03707]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00036]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-1 START @ 06:48:37
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "highlandsproperties"
+HOME URL NEW________: "http://highlandsproperties3.wplocal"
+SITE URL NEW________: "http://highlandsproperties3.wplocal/"
+CONTENT URL NEW_____: "http://highlandsproperties3.wplocal/wp-content"
+UPLOAD URL NEW______: "http://highlandsproperties3.wplocal/wp-content/uploads"
+PLUGINS URL NEW_____: "http://highlandsproperties3.wplocal/wp-content/plugins"
+MUPLUGINS URL NEW___: "http://highlandsproperties3.wplocal/wp-content/mu-plugins"
+HOME PATH NEW_______: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+SITE PATH NEW_______: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/"
+CONTENT PATH NEW____: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/wp-content"
+UPLOAD PATH NEW_____: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/wp-content/uploads"
+PLUGINS PATH NEW____: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/wp-content/plugins"
+MUPLUGINS PATH NEW__: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: false
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: false
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/dup-installer"
+	FILE: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/20230806_highlandsproperties_[HASH]_20230806161117_installer-backup.php"
+	FILE: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/20230806_highlandsproperties_[HASH]_20230806161117_archive.zip"
+	FILE: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/installer.php"
+	FILE: "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/dup-installer-bootlog__0ffb678-06161117.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20230806_highlandsproperties_[HASH]_20230806161117_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> START
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 5.1676 sec. - Files processed: 2 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 2
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0545 sec. - Files processed: 2,697 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 2697
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2159 sec. - Files processed: 3,029 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 3029
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1117 sec. - Files processed: 3,320 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 3320
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0549 sec. - Files processed: 3,851 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 3851
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1033 sec. - Files processed: 4,040 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4040
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2198 sec. - Files processed: 4,254 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4254
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0744 sec. - Files processed: 4,380 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4380
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0234 sec. - Files processed: 4,442 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4442
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1066 sec. - Files processed: 4,559 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4559
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1781 sec. - Files processed: 4,736 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4736
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1742 sec. - Files processed: 4,947 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4947
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0551 sec. - Files processed: 5,245 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5245
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0182 sec. - Files processed: 5,436 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5436
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1487 sec. - Files processed: 5,632 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5632
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2566 sec. - Files processed: 6,209 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6209
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2056 sec. - Files processed: 6,330 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6330
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1253 sec. - Files processed: 6,493 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6493
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1407 sec. - Files processed: 6,656 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6656
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0893 sec. - Files processed: 6,807 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6807
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0581 sec. - Files processed: 7,627 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 7627
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.3978 sec. - Files processed: 7,895 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 7895
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0426 sec. - Files processed: 8,162 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 8162
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0405 sec. - Files processed: 8,452 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 8452
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0689 sec. - Files processed: 8,669 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 8669
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1549 sec. - Files processed: 9,081 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9081
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0230 sec. - Files processed: 9,563 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9563
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1880 sec. - Files processed: 9,834 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9834
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1189 sec. - Files processed: 9,897 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9897
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0173 sec. - Files processed: 10,343 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 10343
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0224 sec. - Files processed: 10,881 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 10881
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0974 sec. - Files processed: 11,267 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 11267
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.3907 sec. - Files processed: 11,699 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 11699
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0899 sec. - Files processed: 11,921 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 11921
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0661 sec. - Files processed: 12,212 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 12212
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2048 sec. - Files processed: 12,416 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 12416
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0621 sec. - Files processed: 12,627 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 12627
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0261 sec. - Files processed: 13,045 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 13045
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0393 sec. - Files processed: 13,258 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 13258
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1580 sec. - Files processed: 13,505 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 13505
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0842 sec. - Files processed: 13,686 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 13686
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.4232 sec. - Files processed: 14,103 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14103
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0403 sec. - Files processed: 14,319 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14319
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1597 sec. - Files processed: 14,473 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14473
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0387 sec. - Files processed: 14,691 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14691
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0155 sec. - Files processed: 14,884 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14884
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0257 sec. - Files processed: 15,407 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 15407
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0224 sec. - Files processed: 16,352 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 16352
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0632 sec. - Files processed: 17,052 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17052
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0257 sec. - Files processed: 17,410 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17410
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0749 sec. - Files processed: 17,706 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17706
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 6.0705 sec. - Files processed: 17,954 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17954
+--------------------------------------
+PATHS MAPPING : "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+--------------------------------------
+FILE EXTRACTION: done processing last file in list of 18562
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 06:57:03 - RUNTIME: 507.0523 sec. - Files processed: 17,956 of 17,956
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 highlandspr_
+
+
+
+********************************************************************************
+* DUPLICATOR LITE: INSTALL-LOG
+* STEP-2 START @ 06:57:04
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "highlandspr_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "highlandspr_actionscheduler_actions"_____________[ROWS:      11] [EXTRACT|REPLACE] [INST NAME: highlandspr_actionscheduler_actions]
+TABLE "highlandspr_actionscheduler_claims"______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_actionscheduler_claims]
+TABLE "highlandspr_actionscheduler_groups"______________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: highlandspr_actionscheduler_groups]
+TABLE "highlandspr_actionscheduler_logs"________________[ROWS:      29] [EXTRACT|REPLACE] [INST NAME: highlandspr_actionscheduler_logs]
+TABLE "highlandspr_commentmeta"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_commentmeta]
+TABLE "highlandspr_comments"____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: highlandspr_comments]
+TABLE "highlandspr_duplicator_packages"_________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: highlandspr_duplicator_packages]
+TABLE "highlandspr_e_events"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_e_events]
+TABLE "highlandspr_favethemes_currency_converter"_______[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_favethemes_currency_converter]
+TABLE "highlandspr_favethemes_insights"_________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: highlandspr_favethemes_insights]
+TABLE "highlandspr_houzez_crm_activities"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_crm_activities]
+TABLE "highlandspr_houzez_crm_deals"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_crm_deals]
+TABLE "highlandspr_houzez_crm_enquiries"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_crm_enquiries]
+TABLE "highlandspr_houzez_crm_leads"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_crm_leads]
+TABLE "highlandspr_houzez_crm_notes"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_crm_notes]
+TABLE "highlandspr_houzez_crm_viewed_listings"__________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_crm_viewed_listings]
+TABLE "highlandspr_houzez_currencies"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_currencies]
+TABLE "highlandspr_houzez_fields_builder"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_fields_builder]
+TABLE "highlandspr_houzez_search"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_search]
+TABLE "highlandspr_houzez_threads"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_threads]
+TABLE "highlandspr_houzez_thread_messages"______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_houzez_thread_messages]
+TABLE "highlandspr_links"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_links]
+TABLE "highlandspr_options"_____________________________[ROWS:     318] [EXTRACT|REPLACE] [INST NAME: highlandspr_options]
+TABLE "highlandspr_pmxi_files"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_pmxi_files]
+TABLE "highlandspr_pmxi_hash"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_pmxi_hash]
+TABLE "highlandspr_pmxi_history"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_pmxi_history]
+TABLE "highlandspr_pmxi_images"_________________________[ROWS:     158] [EXTRACT|REPLACE] [INST NAME: highlandspr_pmxi_images]
+TABLE "highlandspr_pmxi_imports"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_pmxi_imports]
+TABLE "highlandspr_pmxi_posts"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_pmxi_posts]
+TABLE "highlandspr_pmxi_templates"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_pmxi_templates]
+TABLE "highlandspr_postmeta"____________________________[ROWS:   13243] [EXTRACT|REPLACE] [INST NAME: highlandspr_postmeta]
+TABLE "highlandspr_posts"_______________________________[ROWS:     726] [EXTRACT|REPLACE] [INST NAME: highlandspr_posts]
+TABLE "highlandspr_revslider_css"_______________________[ROWS:     109] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_css]
+TABLE "highlandspr_revslider_css_bkp"___________________[ROWS:      47] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_css_bkp]
+TABLE "highlandspr_revslider_layer_animations"__________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_layer_animations]
+TABLE "highlandspr_revslider_layer_animations_bkp"______[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_layer_animations_bkp]
+TABLE "highlandspr_revslider_navigations"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_navigations]
+TABLE "highlandspr_revslider_navigations_bkp"___________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_navigations_bkp]
+TABLE "highlandspr_revslider_sliders"___________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_sliders]
+TABLE "highlandspr_revslider_sliders_bkp"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_sliders_bkp]
+TABLE "highlandspr_revslider_slides"____________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_slides]
+TABLE "highlandspr_revslider_slides_bkp"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_slides_bkp]
+TABLE "highlandspr_revslider_static_slides"_____________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_static_slides]
+TABLE "highlandspr_revslider_static_slides_bkp"_________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_revslider_static_slides_bkp]
+TABLE "highlandspr_termmeta"____________________________[ROWS:      13] [EXTRACT|REPLACE] [INST NAME: highlandspr_termmeta]
+TABLE "highlandspr_terms"_______________________________[ROWS:      77] [EXTRACT|REPLACE] [INST NAME: highlandspr_terms]
+TABLE "highlandspr_term_relationships"__________________[ROWS:    1188] [EXTRACT|REPLACE] [INST NAME: highlandspr_term_relationships]
+TABLE "highlandspr_term_taxonomy"_______________________[ROWS:      77] [EXTRACT|REPLACE] [INST NAME: highlandspr_term_taxonomy]
+TABLE "highlandspr_usermeta"____________________________[ROWS:      30] [EXTRACT|REPLACE] [INST NAME: highlandspr_usermeta]
+TABLE "highlandspr_users"_______________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: highlandspr_users]
+TABLE "highlandspr_wpforms_payments"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_wpforms_payments]
+TABLE "highlandspr_wpforms_payment_meta"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: highlandspr_wpforms_payment_meta]
+TABLE "highlandspr_wpforms_tasks_meta"__________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: highlandspr_wpforms_tasks_meta]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.22 -- Build Server: 10.4.22
+FILE SIZE:	dup-database__[HASH].sql (8.99MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE-GLOBAL:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	466
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "highlandspr_actionscheduler_actions"_____________[ROWS:    11]
+TABLE "highlandspr_actionscheduler_claims"______________[ROWS:     0]
+TABLE "highlandspr_actionscheduler_groups"______________[ROWS:     2]
+TABLE "highlandspr_actionscheduler_logs"________________[ROWS:    29]
+TABLE "highlandspr_commentmeta"_________________________[ROWS:     0]
+TABLE "highlandspr_comments"____________________________[ROWS:     1]
+TABLE "highlandspr_duplicator_packages"_________________[ROWS:     1]
+TABLE "highlandspr_e_events"____________________________[ROWS:     0]
+TABLE "highlandspr_favethemes_currency_converter"_______[ROWS:     0]
+TABLE "highlandspr_favethemes_insights"_________________[ROWS:     3]
+TABLE "highlandspr_houzez_crm_activities"_______________[ROWS:     0]
+TABLE "highlandspr_houzez_crm_deals"____________________[ROWS:     0]
+TABLE "highlandspr_houzez_crm_enquiries"________________[ROWS:     0]
+TABLE "highlandspr_houzez_crm_leads"____________________[ROWS:     0]
+TABLE "highlandspr_houzez_crm_notes"____________________[ROWS:     0]
+TABLE "highlandspr_houzez_crm_viewed_listings"__________[ROWS:     2]
+TABLE "highlandspr_houzez_currencies"___________________[ROWS:     0]
+TABLE "highlandspr_houzez_fields_builder"_______________[ROWS:     0]
+TABLE "highlandspr_houzez_search"_______________________[ROWS:     0]
+TABLE "highlandspr_houzez_thread_messages"______________[ROWS:     0]
+TABLE "highlandspr_houzez_threads"______________________[ROWS:     0]
+TABLE "highlandspr_links"_______________________________[ROWS:     0]
+TABLE "highlandspr_options"_____________________________[ROWS:   319]
+TABLE "highlandspr_pmxi_files"__________________________[ROWS:     0]
+TABLE "highlandspr_pmxi_hash"___________________________[ROWS:     0]
+TABLE "highlandspr_pmxi_history"________________________[ROWS:     0]
+TABLE "highlandspr_pmxi_images"_________________________[ROWS:   158]
+TABLE "highlandspr_pmxi_imports"________________________[ROWS:     0]
+TABLE "highlandspr_pmxi_posts"__________________________[ROWS:     0]
+TABLE "highlandspr_pmxi_templates"______________________[ROWS:     0]
+TABLE "highlandspr_postmeta"____________________________[ROWS: 13243]
+TABLE "highlandspr_posts"_______________________________[ROWS:   726]
+TABLE "highlandspr_revslider_css"_______________________[ROWS:   109]
+TABLE "highlandspr_revslider_css_bkp"___________________[ROWS:    47]
+TABLE "highlandspr_revslider_layer_animations"__________[ROWS:     0]
+TABLE "highlandspr_revslider_layer_animations_bkp"______[ROWS:     0]
+TABLE "highlandspr_revslider_navigations"_______________[ROWS:     0]
+TABLE "highlandspr_revslider_navigations_bkp"___________[ROWS:     0]
+TABLE "highlandspr_revslider_sliders"___________________[ROWS:     1]
+TABLE "highlandspr_revslider_sliders_bkp"_______________[ROWS:     0]
+TABLE "highlandspr_revslider_slides"____________________[ROWS:     1]
+TABLE "highlandspr_revslider_slides_bkp"________________[ROWS:     0]
+TABLE "highlandspr_revslider_static_slides"_____________[ROWS:     1]
+TABLE "highlandspr_revslider_static_slides_bkp"_________[ROWS:     0]
+TABLE "highlandspr_term_relationships"__________________[ROWS:  1188]
+TABLE "highlandspr_term_taxonomy"_______________________[ROWS:    77]
+TABLE "highlandspr_termmeta"____________________________[ROWS:    13]
+TABLE "highlandspr_terms"_______________________________[ROWS:    77]
+TABLE "highlandspr_usermeta"____________________________[ROWS:    30]
+TABLE "highlandspr_users"_______________________________[ROWS:     1]
+TABLE "highlandspr_wpforms_payment_meta"________________[ROWS:     0]
+TABLE "highlandspr_wpforms_payments"____________________[ROWS:     0]
+TABLE "highlandspr_wpforms_tasks_meta"__________________[ROWS:     1]
+
+INSERT DATA RUNTIME: 15.0722 sec.
+STEP-2 COMPLETE @ 06:57:19 - RUNTIME: 15.0725 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal REPLACE: D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/ [SCOPE: ALL]
+SEARCH ITEM[T:path |P:12] SEARCH: D:\xampp\htdocs\www\mos-vai\highlandsproperties.wplocal REPLACE: D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/ [SCOPE: ALL]
+SEARCH ITEM[T:path |P:12] SEARCH: D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal REPLACE: D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: http://highlandsproperties.wplocal REPLACE: http://highlandsproperties3.wplocal/ [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: http://highlandsproperties.wplocal REPLACE: http://highlandsproperties3.wplocal [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR LITE: INSTALL-LOG
+STEP-3 START @ 06:57:20
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 1], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = ], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = ]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 512M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [highlandspr_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_ui_view_state","duplicator_package_active","duplicator_settings","duplicator_is_pro_enable_notice_dismissed")
+DATABASE OPTIONS DELETED [ROWS:    40]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "highlandspr_actionscheduler_actions"_____________[ROWS:    11][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_actionscheduler_actions][0]
+
+EVALUATE TABLE: "highlandspr_actionscheduler_claims"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_actionscheduler_groups"______________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_actionscheduler_groups][0]
+
+EVALUATE TABLE: "highlandspr_actionscheduler_logs"________________[ROWS:    29][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_actionscheduler_logs][0]
+
+EVALUATE TABLE: "highlandspr_commentmeta"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_comments"____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_comments][0]
+
+EVALUATE TABLE: "highlandspr_duplicator_packages"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_e_events"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_favethemes_currency_converter"_______[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_favethemes_insights"_________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_favethemes_insights][0]
+
+EVALUATE TABLE: "highlandspr_houzez_crm_activities"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_crm_deals"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_crm_enquiries"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_crm_leads"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_crm_notes"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_crm_viewed_listings"__________[ROWS:     2][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_currencies"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_fields_builder"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_search"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_threads"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_houzez_thread_messages"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_links"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_options"_____________________________[ROWS:   279][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_options][0]
+
+EVALUATE TABLE: "highlandspr_pmxi_files"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_pmxi_hash"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_pmxi_history"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_pmxi_images"_________________________[ROWS:   158][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_pmxi_images][0]
+
+EVALUATE TABLE: "highlandspr_pmxi_imports"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_pmxi_posts"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_pmxi_templates"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_postmeta"____________________________[ROWS: 13243][PG:  14][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][10]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][11]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][12]
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_postmeta][13]
+
+EVALUATE TABLE: "highlandspr_posts"_______________________________[ROWS:   726][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_posts][0]
+
+EVALUATE TABLE: "highlandspr_revslider_css"_______________________[ROWS:   109][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_revslider_css][0]
+
+EVALUATE TABLE: "highlandspr_revslider_css_bkp"___________________[ROWS:    47][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_revslider_css_bkp][0]
+
+EVALUATE TABLE: "highlandspr_revslider_layer_animations"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_revslider_layer_animations_bkp"______[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_revslider_navigations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_revslider_navigations_bkp"___________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_revslider_sliders"___________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_revslider_sliders][0]
+
+EVALUATE TABLE: "highlandspr_revslider_sliders_bkp"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_revslider_slides"____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_revslider_slides][0]
+
+EVALUATE TABLE: "highlandspr_revslider_slides_bkp"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_revslider_static_slides"_____________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_revslider_static_slides][0]
+	
+STEP-3 CHUNK STOP @ 06:57:25 - RUNTIME: 5.0507 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+EVALUATE TABLE: "highlandspr_revslider_static_slides_bkp"_________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_termmeta"____________________________[ROWS:    13][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_termmeta][0]
+
+EVALUATE TABLE: "highlandspr_terms"_______________________________[ROWS:    77][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_terms][0]
+
+EVALUATE TABLE: "highlandspr_term_relationships"__________________[ROWS:  1188][PG:   2][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_term_taxonomy"_______________________[ROWS:    77][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_term_taxonomy][0]
+
+EVALUATE TABLE: "highlandspr_usermeta"____________________________[ROWS:    30][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_usermeta][0]
+
+EVALUATE TABLE: "highlandspr_users"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_users][0]
+
+EVALUATE TABLE: "highlandspr_wpforms_payments"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_wpforms_payment_meta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "highlandspr_wpforms_tasks_meta"__________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"D:/xampp/htdocs/www/mos-vai/highlandsproperties.wplocal" => "D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property"
+	SEARCH[urlnd]  2:"http://highlandsproperties.wplocal" ==============> "http://highlandsproperties3.wplocal"
+	CHUNK ACTION: CURRENT [search_replace][highlandspr_wpforms_tasks_meta][0]
+--------------------------------------
+SCANNED:	Tables:53 	|	 Rows:14810 	|	 Cells:73679 
+UPDATED:	Tables:5 	|	 Rows:271 	|	 Cells:366 
+ERRORS:		0 
+RUNTIME:	5.821500 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/wp-config.php
+New htaccess file created:D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_SITEURL "http://highlandsproperties3.wplocal/"
+	UPDATE DB_NAME ""most_highlandsproperties3""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+\n SKIP FOLDER PERMISSION AFTER EXTRACTION
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 06:57:28 - RUNTIME: 1.9346 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property/index.php
+E_DEPRECATED Return type of PMXI_Config::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\classes\config.php[85]
+	--- TRACE ---
+	FUNCTION: require                       FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\plugin.php[716]
+	CLASS___: PMXI_Plugin->autoload         FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\plugin.php[258]
+	CLASS___: PMXI_Plugin->__construct      FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\plugin.php[159]
+	CLASS___: PMXI_Plugin::getInstance      FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\plugin.php[1414]
+	FUNCTION: include_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-settings.php[453]
+	FUNCTION: require_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-config.php[97]
+	FUNCTION: require_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-load.php[50]
+	FUNCTION: require_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-blog-header.php[13]
+	FUNCTION: require                       FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\index.php[17]
+	FUNCTION: require_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\wp_test_script_0ffb678-06161117.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+E_DEPRECATED ltrim(): Passing null to parameter #1 ($string) of type string is deprecated
+	FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-includes\formatting.php[4415]
+	--- TRACE ---
+	FUNCTION: ltrim                         FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-includes\formatting.php[4415]
+	FUNCTION: esc_url                       FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\houzez-theme-functionality\elementor\widgets\inquiry-form.php[1129]
+	CLASS___: Elementor\Houzez_Elementor_Inquiry_Form->renderFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\controls-stack.php[2243]
+	CLASS___: Elementor\Controls_Stack->render_by_modeFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\widget-base.php[609]
+	CLASS___: Elementor\Widget_Base->render_contentFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\widget-base.php[750]
+	CLASS___: Elementor\Widget_Base->print_contentFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\element-base.php[449]
+	CLASS___: Elementor\Element_Base->print_elementFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\element-base.php[1360]
+	CLASS___: Elementor\Element_Base->print_contentFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\element-base.php[449]
+	CLASS___: Elementor\Element_Base->print_elementFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\element-base.php[1360]
+	CLASS___: Elementor\Element_Base->print_contentFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\element-base.php[449]
+	CLASS___: Elementor\Element_Base->print_elementFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\element-base.php[1360]
+	CLASS___: Elementor\Element_Base->print_contentFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\element-base.php[449]
+	CLASS___: Elementor\Element_Base->print_elementFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\element-base.php[1360]
+	CLASS___: Elementor\Element_Base->print_contentFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\base\element-base.php[449]
+	CLASS___: Elementor\Element_Base->print_elementFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\core\base\document.php[1711]
+	CLASS___: Elementor\Core\Base\Document->print_elementsFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\core\base\document.php[1106]
+	CLASS___: Elementor\Core\Base\Document->print_elements_with_wrapperFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\frontend.php[1179]
+	CLASS___: Elementor\Frontend->get_builder_contentFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\elementor\includes\frontend.php[1074]
+	CLASS___: Elementor\Frontend->apply_builder_in_contentFILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-includes\plugin.php[205]
+	FUNCTION: apply_filters                 FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-includes\post-template.php[255]
+	FUNCTION: the_content                   FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\themes\houzez\template\template-homepage.php[26]
+	FUNCTION: include                       FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-includes\template-loader.php[106]
+	FUNCTION: require_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-blog-header.php[19]
+	FUNCTION: require                       FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\index.php[17]
+	FUNCTION: require_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\wp_test_script_0ffb678-06161117.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress backend tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: D:/xampp/htdocs/www/mos-vai/highlandsproperties3.wplocal/Most-vi-property//wp-login.php
+E_DEPRECATED Return type of PMXI_Config::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\classes\config.php[85]
+	--- TRACE ---
+	FUNCTION: require                       FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\plugin.php[716]
+	CLASS___: PMXI_Plugin->autoload         FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\plugin.php[258]
+	CLASS___: PMXI_Plugin->__construct      FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\plugin.php[159]
+	CLASS___: PMXI_Plugin::getInstance      FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\plugins\wp-all-import\plugin.php[1414]
+	FUNCTION: include_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-settings.php[453]
+	FUNCTION: require_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-config.php[97]
+	FUNCTION: require_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-load.php[50]
+	FUNCTION: require                       FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-login.php[12]
+	FUNCTION: require_once                  FILE: D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\wp-content\wp_test_script_0ffb678-06161117.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+
+
+====================================
+LOG-TIME[D:\xampp\htdocs\www\mos-vai\highlandsproperties3.wplocal\Most-vi-property\dup-installer\ctrls\ctrl.base.php:227][DELTA:   2.44200]  MESSAGE:END RENDER PAGE
